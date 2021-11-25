@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nishtha
+- 👀 I’m currently in 12th class and I'm interested in learn to code and new emerging technologies.
+- 🌱 I’m currently learning DSA
+- 💞️ I’m looking to collaborate on Machine Learning, Cyber security and web development
